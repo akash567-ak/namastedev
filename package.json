@@ -1,0 +1,31 @@
+{
+  "name": "namaste-akash1",
+  "version": "1.0.0",
+  "description": "This is Namaste akash by Akash Sharma",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash567-ak/namastedev.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash567-ak/namastedev/issues"
+  },
+  "homepage": "https://github.com/akash567-ak/namastedev#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}

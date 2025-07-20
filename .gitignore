@@ -1,0 +1,15 @@
+# Ignore node modules and cache
+node_modules/
+dist/
+.parcel-cache/
+.cache/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and builds
+*.log
+*.zip
+*.mp4
+*.exe
