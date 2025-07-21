@@ -15,4 +15,3 @@ const AppLayout = () => {
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(<AppLayout />);
->>>>>>> 4569c83 (Reinitialise after accidental .git deletion)
